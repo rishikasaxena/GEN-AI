@@ -1,4 +1,4 @@
-# 🚀 GiantAI – Generative AI Workshop
+# 🚀 GENAI – Generative AI Workshop
 
 This repository contains my practice code, experiments, and learnings from a **Generative AI Workshop**.
 
